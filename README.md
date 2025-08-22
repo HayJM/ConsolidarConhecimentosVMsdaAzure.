@@ -1,0 +1,2 @@
+# ConsolidarConhecimentosVMsdaAzure.
+Escrevendo resumo.
